@@ -34,3 +34,4 @@ Pour chaque client ou serveur choisi, on a le choix de lui demander 6 informatio
 -download : un pair qui reçoit ce message doit renvoyer le contenu du fichier demandé au pair expéditeur du message.
 - bye : ce message est envoyé pour notifier que le pair est déconnecté du réseau.
 
+![PEER EXECUTION](https://github.com/saidigui/P2P_distributed-programming-in-java/blob/main/application_en_execution.png)
