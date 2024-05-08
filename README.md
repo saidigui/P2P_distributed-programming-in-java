@@ -2,12 +2,14 @@ Dans notre projet, nous avons implémenté un service P2P pour le partage de fic
 
 Comment utiliser l’application ?
 
-Lancement et mise en place :
+* Lancement et mise en place :
 
 À l’intérieur du fichier zip, vous trouverez un dossier “P2P_distributed-programming-in-java”.
 Dézippez le fichier et déplacez le dossier dans NetBeansProjects.
 L’IDE pour ce projet est Netbeans 21.
-La compilation et l’exécution :
+
+
+* La compilation et l’exécution :
 
 Démarrez l’IDE et ouvrez le projet « P2P_distributed-programming-in-java ». Vous trouverez 2 packages : modules et package_main.
 Compilez les classes dans le package modules : PairConnu.java, Progression.java, RechercheFichier.java.
